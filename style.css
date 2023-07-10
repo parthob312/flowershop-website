@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+.main-body {
+  width: 1920px;
+  margin: 0 auto;
+}
+/* This Section For Header */
+.header-section {
+  height: 885px;
+  background-color: rgba(229, 84, 115, 0.1);
+  display: flex;
+}
+.header-head {
+  color: #272727;
+  font-size: 80px;
+  font-weight: 800;
+}
+.header-para {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-top: 32px;
+}
+.header-btn {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 8px;
+  border: 0;
+  background-color: #e55473;
+  padding: 20px 43px;
+  margin: 32px 0 0 0;
+}
+.header-img {
+  width: 635px;
+  height: 800px;
+}
+.header-container1 {
+  margin: 197px 0 0 240px;
+}
+.header-container2 {
+  margin: 85px 0 0 97px;
+}
+/* This Section For Featured */
+.featured-head {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  padding: 178px 737px 24px 737px;
+}
+.featured-para {
+  width: 594px;
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  padding: 0 663px 0 663px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.pink-flower-tree {
+  display: flex;
+  flex-direction: row;
+  margin: 48px 240px 32px 240px;
+}
+.tree-name {
+  display: flex;
+  flex-direction: row;
+}
+.flower-tree1 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  margin-right: 24px;
+}
+.flower-tree2 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  margin-right: 24px;
+}
+.flower-tree3 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+}
+.tree-flowers1 {
+  padding: 110px 78px 0 76px;
+}
+.tree-flowers2 {
+  padding: 117px 47px 51px 47px;
+}
+.tree-flowers3 {
+  padding: 67px 75px 0 75px;
+}
+.flower-tree {
+  width: 464px;
+  height: 538px;
+}
+.tree-name {
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+  margin: 0 340px 128px 340px;
+}
+.tree-name1 {
+  padding-right: 260px;
+}
+.tree-name2 {
+  padding-right: 270px;
+}
