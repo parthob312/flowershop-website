@@ -8,7 +8,9 @@
   width: 1920px;
   margin: 0 auto;
 }
+
 /* This Section For Header */
+
 .header-section {
   height: 885px;
   background-color: rgba(229, 84, 115, 0.1);
@@ -46,7 +48,9 @@
 .header-container2 {
   margin: 85px 0 0 97px;
 }
+
 /* This Section For Featured */
+
 .featured-head {
   color: #272727;
   font-size: 40px;
@@ -118,4 +122,52 @@
 }
 .tree-name2 {
   padding-right: 270px;
+}
+
+/* This Section For Bannar */
+.bannar {
+  width: 1440px;
+  height: 320px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  margin: 0 240px 128px 240px;
+}
+.bannar-section1 {
+  padding: 86px 232px 24px 317px;
+}
+.bannar-section2 {
+  padding: 0 0 87px 160px;
+}
+.service1 {
+  padding-right: 80px;
+}
+.service2 {
+  padding-right: 80px;
+}
+.logo-poster1 {
+  width: 88px;
+  height: 88px;
+  padding-right: 356px;
+}
+.logo-poster2 {
+  width: 88px;
+  height: 88px;
+  padding-right: 271px;
+}
+.logo-poster3 {
+  width: 88px;
+  height: 88px;
+}
+.heading-poster {
+  color: rgba(39, 39, 39, 0.8);
+  /* text-align: center; */
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 35px;
+}
+.poster {
+  display: flex;
+}
+.poster-title {
+  display: flex;
 }
