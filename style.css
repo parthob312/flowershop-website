@@ -290,3 +290,35 @@
   height: 64px;
 }
 /* This Section For Footer */
+.footer-section {
+  width: 1922px;
+  height: 449px;
+  background: #111010;
+}
+.foot {
+  /* padding: 128px 0 128px 815px; */
+}
+.foot-head {
+  color: #e55473;
+  font-size: 48px;
+  font-weight: 800;
+  padding: 128px 0 0 815px;
+}
+.shop {
+  color: #fff;
+}
+.foot-description {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  width: 625px;
+  padding: 24px 0 32px 644px;
+}
+.copyright {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+  padding: 0 0 128px 770px;
+}
