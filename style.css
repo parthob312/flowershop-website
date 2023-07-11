@@ -215,3 +215,28 @@
 .hotdeal-img {
   margin: 100px 0;
 }
+/* This Section For Instagram */
+.i-heading {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  padding: 128px 870px 0 870px;
+}
+.i-para {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  padding: 24px 663px 0 663px;
+  width: 594px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.i-image {
+  margin: 48px 240px 128px 240px;
+  display: flex;
+  gap: 24px;
+}
+.image-insta {
+  width: 342px;
+  height: 396px;
+}
