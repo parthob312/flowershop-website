@@ -246,9 +246,8 @@
   height: 449px;
   border-radius: 8px;
   background-image: url("./images/Rectangle\ 9.png");
+  background-size: cover;
   background-repeat: no-repeat;
-}
-.latest-deals {
   margin: 0 240px 128px 240px;
 }
 .deals {
